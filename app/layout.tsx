@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Repair Tracker",
-  description: "Request a device repair and track its status.",
+  description: "Repair tracking for solo techs.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
